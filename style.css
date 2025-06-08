@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;  /* light grey */
+    color: #333;
+    text-align: center;
+}
+
+h1, h2, h5 {
+    color: #0d6efd;  
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.case-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.case-title {
+    color: #bf1b9e; /*cases title color*/
+}
